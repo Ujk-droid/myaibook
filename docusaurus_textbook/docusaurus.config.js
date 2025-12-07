@@ -29,7 +29,7 @@ const config = {
     locales: ['en', 'ur'], // Added Urdu locale
   },
 
-  
+
 
   presets: [
     [
@@ -72,7 +72,7 @@ const config = {
             label: 'Textbook',
           },
           {
-            href: 'https://github.com/subhankaladi',
+            href: 'https://github.com/Ujk-droid/myaibook',
             label: 'GitHub',
             position: 'right',
           },
@@ -109,15 +109,15 @@ const config = {
             items: [
               {
                 label: 'Instagram',
-                href: 'https://instagram.com/subhan_kaladi',
+                href: 'https://www.instagram.com/uzmakhan11122',
               },
               {
                 label: 'LinkenIN',
-                href: 'https://www.linkedin.com/in/subhankaladi/',
+                href: 'https://www.linkedin.com/in/uzmakhan/',
               },
               {
                 label: '(X)Twitter',
-                href: 'https://x.com/subhankaladi15',
+                href: 'https://x.com/uzmakhan11122',
               },
             ],
           },
@@ -126,12 +126,12 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/subhankaladi',
+                href: 'https://github.com/Ujk-droid/myaibook',
               },
             ],
           },
         ],
-        copyright: `Copyright � ${new Date().getFullYear()} Physical AI & Humanoid Robotics Textbook, Built with ❤️ by Subhan Kaladi.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Physical AI & Humanoid Robotics Textbook, Built with ❤️ by Uzma Khan.`,
       },
       prism: {
         theme: prismThemes.github,
